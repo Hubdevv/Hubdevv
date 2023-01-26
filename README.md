@@ -1,6 +1,6 @@
 [![MasterHead](https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![hubdevv's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubdevv)](https://github.com/hubdevv/github-readme-stats)
+![hubdevv's github stats](https://github-readme-stats.vercel.app/api?username=hubdevv)
 <h1 align="center">Hi 👋, I'm Hania Megri</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
